@@ -20,3 +20,9 @@
 .phpunit.result.cache
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
+
+/node_modules/
+/public/
+/npm-debug.log
+# used later by Cordova
+/app/
